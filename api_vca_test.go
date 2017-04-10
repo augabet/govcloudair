@@ -12,7 +12,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/ukcloud/govcloudair/testutil"
+	"github.com/augabet/govcloudair/testutil"
 	. "gopkg.in/check.v1"
 )
 

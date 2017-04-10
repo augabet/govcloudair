@@ -5,7 +5,7 @@
 package govcloudair
 
 import (
-	"github.com/ukcloud/govcloudair/testutil"
+	"github.com/augabet/govcloudair/testutil"
 
 	. "gopkg.in/check.v1"
 )
@@ -61,4 +61,4 @@ var orgvdcnetExample = `
     </Configuration>
     <IsShared>false</IsShared>
 </OrgVdcNetwork>
-	`
+    `

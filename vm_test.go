@@ -6,7 +6,7 @@ package govcloudair
 
 import (
 	// "fmt"
-	"github.com/ukcloud/govcloudair/testutil"
+	"github.com/augabet/govcloudair/testutil"
 	. "gopkg.in/check.v1"
 )
 
@@ -200,4 +200,4 @@ var vmExample = `<?xml version="1.0" encoding="UTF-8"?>
     </VmCapabilities>
     <StorageProfile href="http://localhost:4444/api/vdcStorageProfile/33333333-3333-3333-3333-333333333333" name="BASIC-Any" type="application/vnd.vmware.vcloud.vdcStorageProfile+xml"/>
 </Vm>
-	`
+    `

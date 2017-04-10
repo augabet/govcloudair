@@ -5,8 +5,8 @@
 package govcloudair
 
 import (
-	"github.com/ukcloud/govcloudair/testutil"
-	types "github.com/ukcloud/govcloudair/types/v56"
+	"github.com/augabet/govcloudair/testutil"
+	types "github.com/augabet/govcloudair/types/v56"
 	. "gopkg.in/check.v1"
 )
 
@@ -494,4 +494,4 @@ var edgegatewayExample = `
         <UseDefaultRouteForDnsRelay>true</UseDefaultRouteForDnsRelay>
     </Configuration>
 </EdgeGateway>
-	`
+    `
